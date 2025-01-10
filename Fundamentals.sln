@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Delegates", "Delegates\Dele
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LambaExpressions", "LambaExpressions\LambaExpressions.csproj", "{148C5B06-4316-495C-859C-44BE2B0FB60E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Refresher", "Refresher\Refresher.csproj", "{50B3DB05-15FA-42DB-ABA3-7BFE8884D85F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{148C5B06-4316-495C-859C-44BE2B0FB60E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{148C5B06-4316-495C-859C-44BE2B0FB60E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{148C5B06-4316-495C-859C-44BE2B0FB60E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{50B3DB05-15FA-42DB-ABA3-7BFE8884D85F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{50B3DB05-15FA-42DB-ABA3-7BFE8884D85F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{50B3DB05-15FA-42DB-ABA3-7BFE8884D85F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{50B3DB05-15FA-42DB-ABA3-7BFE8884D85F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
